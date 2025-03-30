@@ -10,7 +10,7 @@
 
 # próximos pasos
 
-My intention is to create an app using Flask or other compiler to convert a python exploratory program into an executable file that works as a dinosaur encyclopedia
+My intention is to create an app using PyQt5 to convert a python exploratory program into an executable file using PyInstaller that works as a dinosaur encyclopedia
 
 # contribuciones
 
