@@ -1,17 +1,19 @@
-# título
+# Title
 
-# descripción
+# Description
 
-# estructura
+This is a python-based executable app that functions as a simple encyclopedia.
 
-# instalación y requisitos
+# Structure
 
-# resultados y conclusiones
+# Instalation and prerequisites
 
-# próximos pasos
+# Results and conclussions
+
+# Next steps
 
 My intention is to create an app using PyQt5 to convert a python exploratory program into an executable file using PyInstaller that works as a dinosaur encyclopedia
 
-# contribuciones
+# Contributions
 
-# autores y agradecimientos
+# Authors and thanks
